@@ -1,7 +1,7 @@
 {
   "name": "logana",
   "displayName": "logana",
-  "description": "A vscode plugin for https://github.com/micmine/logana",
+  "description": "A vscode plugin for https://github.com/emilycares/logana",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.84.0"
